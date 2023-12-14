@@ -1,0 +1,192 @@
+@media screen and (max-width: 1000px) {
+  .monster_man {
+    display: none;
+  }
+  .monster_top_header {
+    margin: 0 !important;
+  }
+  .monster_top {
+    height: auto !important;
+    min-height: 200px;
+    padding: 24px 0 !important;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .monster_top_header h1 {
+    font-size: 25px;
+  }
+  .monster_subtitle h3 {
+    font-size: 18px;
+  }
+
+  .monster_form_container {
+    flex-direction: column;
+  }
+  .monster_robux_size_container {
+    margin: 0 0 25px 0;
+  }
+  .monster_god {
+    width: 80%;
+  }
+}
+
+@media screen and (max-width: 700px) {
+}
+
+@media screen and (max-width: 600px) {
+  .monster_subtitle {
+    font-size: 14px;
+  }
+  .monster_content {
+    margin: 0;
+  }
+  .monster_step {
+    padding: 25px 0;
+  }
+  .monster_subtitle h3 {
+    font-size: 17px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .monster_gold_robux {
+    margin-right: 0px;
+  }
+  .monster_gold_robux img {
+    height: 35px;
+  }
+  .monster_price h3 {
+    font-size: 18px;
+    font-weight: 600;
+  }
+  .monster_size_button {
+    width: 150px;
+  }
+
+  .monster_god {
+    width: 90%;
+  }
+
+  .monster_field input {
+    font-size: 28px;
+  }
+  .monster_save_button {
+    font-size: 22px;
+  }
+
+  .monster_offer_info a {
+    font-size: 13px;
+    font-weight: 500;
+  }
+  .monster_size_link {
+    width: 120px !important;
+  }
+
+  .monster_addfunds h2 {
+    font-size: 22px;
+  }
+  .monster_addfunds h2 > span {
+    font-size: 22px;
+  }
+  .monster_addfunds h2 img {
+    max-width: 24px;
+  }
+
+  .monster_addfunds h4,
+  .monster_addfunds h2 {
+    font-size: 16px;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  .monster_brand img {
+    width: 150px;
+  }
+  .monster_gold_robux img {
+    height: 30px;
+  }
+  .monster_table_cell {
+    padding: 15px;
+  }
+  .monster_size_button {
+    width: 140px;
+    height: 50px;
+  }
+  .monster_size span {
+    font-size: 18px;
+  }
+
+  .monster_top {
+    padding: 0 20px;
+  }
+  .monster_top_header h1 {
+    font-size: 22px;
+  }
+  .monster_subtitle {
+    font-size: 12px;
+  }
+  .monster_subtitle h3 {
+    font-size: 13px;
+  }
+
+  .monster_user_followers {
+    font-size: 14px;
+  }
+
+  @media screen and (max-width: 550px) {
+    .monster_table_cell {
+      flex-direction: column !important;
+    }
+    .monster_table_cell h3,
+    .monster_table_cell small {
+      width: auto;
+      display: flex !important;
+      justify-content: center;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .monster_top_header h1 {
+      font-size: 18px !important;
+    }
+
+    .monster_subtitle {
+      font-size: 16px !important;
+    }
+    .monster_subtitle h3 {
+      font-size: 16px !important;
+    }
+
+    .monster_top {
+      height: 350px !important;
+      background-size: cover !important;
+    }
+
+    #continue {
+      font-size: 32px !important;
+    }
+  }
+}
+
+/*
+     FILE ARCHIVED ON 14:52:43 Oct 25, 2022 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 19:12:18 Mar 31, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 354.753
+  exclusion.robots: 0.062
+  exclusion.robots.policy: 0.053
+  cdx.remote: 0.05
+  esindex: 0.008
+  LoadShardBlock: 76.778 (3)
+  PetaboxLoader3.datanode: 186.46 (5)
+  load_resource: 453.519
+  PetaboxLoader3.resolve: 309.725
+  loaddict: 121.569
+*/
